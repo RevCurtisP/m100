@@ -1,11 +1,6 @@
-Math Command by Curtis F. Kaylor <sup>(c)</sup>2010
-<dl>
-<dt>Program Files:
-<dd><a href="http://www.club100.org/blosxom/contest2010/kaylor/mthcmd/mthcmd.ba" target=_blank>MTHCMD.BA</a> -- Math Command Game in Tokenized format.
-<dd><a href="http://www.club100.org/blosxom/contest2010/kaylor/mthcmd/mthcmd.bas" target=_blank>MTHCMD.BAS</a> -- Math Command Game in ASCII format.
-<dd><a href="http://www.club100.org/blosxom/contest2010/kaylor/mthcmd/mthcmd.do" target=_blank>MTHCMD.DO</a> -- Instructions in TEXT format.
-<dd><a href="http://www.club100.org/blosxom/contest2010/kaylor/mthcmd/mthcmd.rtf" target=_blank>MTHCMD.RTF</a> -- Detailed Code Comments
-<dd><a href="http://www.club100.org/blosxom/contest2010/kaylor/mthcmd/mthcmd.txt" target=_blank>MTHCMD.TXT</a> -- File Manifest
-</dl>
-<p>Here is my entry, an educational game that is actually fun.
-<br>Curtis F Kaylor
+Math Command by Curtis F. Kaylor ©2010
+MTHCMD.BA -- Math Command Game in Tokenized format.
+MTHCMD.BAS -- Math Command Game in ASCII format.
+MTHCMD.DO -- Instructions in TEXT format.
+MTHCMD.RTF -- Detailed Code Comments
+MTHCMD.TXT -- File Manifest
